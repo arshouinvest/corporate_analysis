@@ -1,5 +1,5 @@
 <h2>Corporate Analysis Dashboard</h2>
-<a href="https://arshouinvest.github.io/corporate_analysis/">Link to :Corporate Dashboard Hyperlink</a><br>
+<a href="https://arshouinvest.github.io/tableau_corporate_analysis/">Link to :Corporate Dashboard Hyperlink</a><br>
 
 <h3>Corporate Finance Analysis</h3>
 Step 1： Data Collection - Collect data from Seeking Alpha <br>
