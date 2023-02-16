@@ -1,5 +1,5 @@
 <h2>Corporate Analysis Dashboard -Enbridge Inc</h2>
-<a href="https://dndworkshop.github.io/tableau_corporate_analysis/">Link to :Corporate Dashboard Hyperlink- Enbridge Inc</a><br>
+<a href="https://dndworkshop.github.io/tableau_enbridge-inc-2012-2022/">Link to :Corporate Dashboard Hyperlink- Enbridge Inc</a><br>
 
 <h3>Corporate Finance Analysis</h3>
 Step 1： Data Collection - Collect data from Seeking Alpha <br>
